@@ -1,0 +1,10 @@
+{
+  "projectileName" : "dmplasma",
+  "frames" : "dmplasma.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "power" : 60,
+
+  "lightColor" : [255, 180, 0],
+  "damageKind" : "slash"
+}

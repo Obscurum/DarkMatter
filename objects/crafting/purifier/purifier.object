@@ -1,0 +1,83 @@
+{
+    "objectName": "purifier",
+    "rarity": "legendary",
+    "interactAction": "OpenCraftingInterface",
+    "interactData": {
+        "config": "/interface/windowconfig/purifier.config",
+        "filter": [
+            "purifier"
+        ]
+    },
+    "printable": false,
+    "description": "Uses three molten materials to create the most powerful material in the known Universe.",
+    "shortdescription": "^yellow;Purifier^white;",
+    "race": "generic",
+    "category": "crafting",
+    "price": 1500,
+    "apexDescription": "A large chalice that mixes things into other things.",
+    "avianDescription": "A chalice full of Uranium, Alien Rock, and Dark Matter. The perfect thing to purify the Dark Matter.",
+    "floranDescription": "Liquid things ssspin, ssspin, ssspin. Make darker thingsss.",
+    "glitchDescription": "ERROR^404. This chalice holds the most powerful thing in the known Universe.",
+    "humanDescription": "A cup full of different liquids. It can purify Dark Matter.",
+    "hylotlDescription": "A chalice full of liquids. I can make pure Dark Matter with this.",
+    "lightColor": [
+        0,
+        0,
+        0
+    ],
+    "lightPosition": [
+        0,
+        2
+    ],
+    "flickerPeriod": 0.5,
+    "flickerMinIntensity": 0.95,
+    "flickerMaxIntensity": 1,
+    "flickerPeriodVariance": 0,
+    "flickerIntensityVariance": 0,
+    "inventoryIcon": "purifiericon.png",
+    "orientations": [
+        {
+            "imageLayers": [
+                {
+                    "image": "purifier.png:<color>.<frame>",
+                    "fullbright": true
+                }
+            ],
+            "imagePosition": [
+                -8,
+                0
+            ],
+            "frames": 8,
+            "animationCycle": 1.5,
+            "direction": "left",
+            "flipImages": true,
+            "spaceScan": 0.1,
+            "anchors": [
+                "bottom"
+            ]
+        },
+        {
+            "imageLayers": [
+                {
+                    "image": "purifier.png:<color>.<frame>",
+                    "fullbright": true
+                }
+            ],
+            "imagePosition": [
+                -8,
+                0
+            ],
+            "frames": 8,
+            "animationCycle": 1.5,
+            "direction": "right",
+            "spaceScan": 0.1,
+            "anchors": [
+                "bottom"
+            ]
+        }
+    ],
+    "soundEffect": "/sfx/objects/scififurnace.wav",
+    "statusEffects": [],
+    "frameCooldown": 5,
+    "autoCloseCooldown": 3600
+}

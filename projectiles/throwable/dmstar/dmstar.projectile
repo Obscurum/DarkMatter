@@ -1,0 +1,55 @@
+{
+    "projectileName": "dmstar",
+    "frames": "dmstar.png",
+    "animationCycle": 0.25,
+    "physics": "arrow",
+    "frameNumber": 3,
+    "pointLight": false,
+    "speed": 60,
+    "actionOnReap": [
+        {
+            "action": "config",
+            "file": "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+        }
+    ],
+    "power": 200,
+    "damageKind": "axe",
+    "emitters": [
+        "daggerblue"
+    ],
+    "damagePoly": [
+        [
+            -9,
+            0
+        ],
+        [
+            -6,
+            -6
+        ],
+        [
+            0,
+            -9
+        ],
+        [
+            6,
+            -6
+        ],
+        [
+            9,
+            0
+        ],
+        [
+            6,
+            6
+        ],
+        [
+            0,
+            9
+        ],
+        [
+            -6,
+            6
+        ]
+    ]
+}
+

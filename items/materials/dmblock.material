@@ -1,0 +1,27 @@
+{
+    "materialId": 1001,
+    "materialName": "dmblock",
+    "particleColor": [
+        141,
+        131,
+        92,
+        255
+    ],
+    "itemDrop": "dmblock",
+    "shortdescription": "Dark Matter Block",
+    "description": "Blocks made from three powerful materials.",
+    "glitchDescription": "Amazed. Bricks that are powerful.",
+    "floranDescription": "Sssstrong materials.",
+    "footstepSound": "/sfx/blocks/footstep_stone3.wav",
+    "health": 16,
+    "category": "materials",
+    "renderTemplate": "/tiles/classicmaterialtemplate.config",
+    "renderParameters": {
+        "texture": "dmblock.png",
+        "variants": 5,
+        "lightTransparent": false,
+        "occludesBelow": true,
+        "multiColored": true,
+        "zLevel": 0
+    }
+}

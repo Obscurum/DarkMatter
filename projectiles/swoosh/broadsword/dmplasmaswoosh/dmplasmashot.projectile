@@ -1,0 +1,18 @@
+{
+  "projectileName" : "dmplasmashot",
+  "physics" : "laser",
+  "frames" : "dmplasmashot.png",
+  "lightColor" : [182, 255, 0],
+  "animationCycle" : 0.25,
+  "timeToLive" : 5,
+  "frameNumber" : 4,
+  "speed" : 65,
+  "damagePoly" : [ [-20, 5.5], [14, 5.5], [14, -5.5], [-20, -5.5] ],
+  "animationLoops" : true,
+  "piercing" : true,
+  "flippable" : true,
+  "universalDamage" : false,
+  "damageKind" : "retro",
+  "knockback" : 25,
+  "knockbackDirectional" : true
+}

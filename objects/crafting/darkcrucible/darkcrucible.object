@@ -1,0 +1,89 @@
+{
+    "objectName": "darkcrucible",
+    "rarity": "legendary",
+    "interactAction": "OpenCraftingInterface",
+    "interactData": {
+        "config": "/interface/windowconfig/darkcrucible.config",
+        "filter": [
+            "darkcrucible"
+        ]
+    },
+    "printable": false,
+    "description": "This device can harness dark matter to create powerful technology.",
+    "shortdescription": "^red;Dark Crucible^white;",
+    "race": "generic",
+    "category": "crafting",
+    "price": 1500,
+    "apexDescription": "A dark crucible. I can create incredibly powerful things with this.",
+    "avianDescription": "A crucible. Perfect for crafting powerful tech.",
+    "floranDescription": "Dark thing ssspin, ssspin, ssspin. Make smaller dark thingsss.",
+    "glitchDescription": "Craftsmanship. This dark crucible is perfect for creating things made from dark matter.",
+    "humanDescription": "A dark crucible. This device is powerful enough to minipulate dark matter.",
+    "hylotlDescription": "A dark crucible. I can make incredible things with this.",
+    "lightColor": [
+        31,
+        66,
+        102
+    ],
+    "lightPosition": [
+        0,
+        2
+    ],
+    "flickerPeriod": 0.5,
+    "flickerMinIntensity": 0.95,
+    "flickerMaxIntensity": 1,
+    "flickerPeriodVariance": 0,
+    "flickerIntensityVariance": 0,
+    "inventoryIcon": "darkcrucibleicon.png",
+    "orientations": [
+        {
+            "imageLayers": [
+                {
+                    "image": "darkcrucible.png:<color>.<frame>",
+                    "fullbright": true
+                },
+                {
+                    "image": "darkcruciblelit.png:<color>.<frame>"
+                }
+            ],
+            "imagePosition": [
+                -8,
+                0
+            ],
+            "frames": 14,
+            "animationCycle": 1.5,
+            "direction": "left",
+            "flipImages": true,
+            "spaceScan": 0.1,
+            "anchors": [
+                "bottom"
+            ]
+        },
+        {
+            "imageLayers": [
+                {
+                    "image": "darkcrucible.png:<color>.<frame>",
+                    "fullbright": true
+                },
+                {
+                    "image": "darkcruciblelit.png:<color>.<frame>"
+                }
+            ],
+            "imagePosition": [
+                -8,
+                0
+            ],
+            "frames": 14,
+            "animationCycle": 1.5,
+            "direction": "right",
+            "spaceScan": 0.1,
+            "anchors": [
+                "bottom"
+            ]
+        }
+    ],
+    "soundEffect": "/sfx/objects/scififurnace.wav",
+    "statusEffects": [],
+    "frameCooldown": 5,
+    "autoCloseCooldown": 3600
+}

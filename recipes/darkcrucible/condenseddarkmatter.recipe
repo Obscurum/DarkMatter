@@ -1,0 +1,20 @@
+{
+    "input": [
+        {
+            "item": "uraniumrod",
+            "count": 10
+        },
+        {
+            "item": "darkmatter",
+            "count": 20
+        }
+    ],
+    "output": {
+        "item": "condenseddarkmatter",
+        "count": 1
+    },
+    "groups": [
+        "darkcrucible",
+        "all"
+    ]
+}

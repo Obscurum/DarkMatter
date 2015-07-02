@@ -1,0 +1,8 @@
+{
+    "itemName": "puredarkmatter",
+    "rarity": "Legendary",
+    "inventoryIcon": "puredarkmatter.png",
+    "description": "Dark Matter in its purest form. White when molent, black when solid.",
+    "shortdescription": "Pure Dark Matter",
+    "fuelAmount": 100
+}

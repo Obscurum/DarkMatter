@@ -1,0 +1,17 @@
+{
+  "projectileName" : "pscytheshot",
+  "physics" : "arrow",
+  "frames" : "pscytheshot.png",
+  "animationCycle" : 0.25,
+  "timeToLive" : 5,
+  "frameNumber" : 4,
+  "speed" : 75,
+  "damagePoly" : [ [-20, 5.5], [14, 5.5], [14, -5.5], [-20, -5.5] ],
+  "animationLoops" : true,
+  "piercing" : true,
+  "flippable" : true,
+  "universalDamage" : false,
+  "damageKind" : "retro",
+  "knockback" : 35,
+  "knockbackDirectional" : true
+}

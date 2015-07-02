@@ -1,0 +1,17 @@
+{
+    "itemName": "dmstar",
+    "rarity": "Legendary",
+    "inventoryIcon": "dmstaricon.png",
+    "image": "dmstaricon.png",
+    "shortdescription": "Dark Matter Bull Star",
+    "description": "A powerful ninja star for the most professional of ninjas.",
+    "ammoUsage": 1,
+    "edgeTrigger": true,
+    "windupTime": 0,
+    "cooldown": 0.2,
+    "projectileType": "dmstar",
+    "projectileConfig": {
+        "speed": 60,
+        "power": 200
+    }
+}

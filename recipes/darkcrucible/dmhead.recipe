@@ -1,0 +1,24 @@
+{
+    "input": [
+        {
+            "item": "alienrock",
+            "count": 75
+        },
+        {
+            "item": "uraniumrod",
+            "count": 10
+        },
+        {
+            "item": "condenseddarkmatter",
+            "count": 15
+        }
+    ],
+    "output": {
+        "item": "dmchest",
+        "count": 1
+    },
+    "groups": [
+        "darkcrucible",
+        "all"
+    ]
+}

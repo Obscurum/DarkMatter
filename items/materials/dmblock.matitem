@@ -1,0 +1,16 @@
+{
+    "itemName": "dmblock",
+    "rarity": "Legendary",
+    "inventoryIcon": "dmblockicon.png",
+    "dropCollision": [
+        -2.5,
+        -2,
+        2.5,
+        2
+    ],
+    "shortdescription": "Dark Matter Block",
+    "description": "Blocks made from three powereful materials.",
+    "glitchdescription": "Amazed. Bricks that are powerful.",
+    "florandescription": "Sssstrong materials.",
+    "materialId": 1001
+}

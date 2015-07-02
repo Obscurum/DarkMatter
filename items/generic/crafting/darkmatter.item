@@ -1,0 +1,8 @@
+{
+    "itemName": "darkmatter",
+    "rarity": "Rare",
+    "inventoryIcon": "darkmatter.png",
+    "description": "A perfect ball of Dark Matter. Can be used to make powerful technology.",
+    "shortdescription": "Dark Matter",
+    "fuelAmount": 15
+}

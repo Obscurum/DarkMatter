@@ -1,0 +1,26 @@
+{
+    "input": [
+        {
+            "item": "alienrock",
+            "count": 100
+        },
+        {
+            "item": "uraniumrod",
+            "count": 4
+        },
+        {
+            "item": "darkmatter",
+            "count": 10
+        }
+    ],
+    "output": {
+        "item": "darkcrucible",
+        "count": 1
+    },
+    "groups": [
+        "roboticcraftingtable",
+        "objects",
+        "tools",
+        "all"
+    ]
+}

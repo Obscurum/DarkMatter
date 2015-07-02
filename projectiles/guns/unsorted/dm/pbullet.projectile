@@ -1,0 +1,23 @@
+{
+  "projectileName" : "pbullet",
+  "physics" : "bullet",
+  "bounces" : 0,
+  "damageKindImage" : "pbulleticon.png",
+  "frames" : "pbullet.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 3,
+  "power" : 60,
+  "speed" : 175,
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/plasmabulletexplosion/plasmabulletexplosion.config"
+    }
+  ],
+  "statusEffects" : [
+    "damageflash"
+  ],
+  "lightColor" : [255, 255, 255],
+  "damageKind" : "plasma"
+}

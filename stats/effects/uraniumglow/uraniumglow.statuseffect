@@ -1,0 +1,11 @@
+{
+  "name" : "uraniumglow",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "uraniumglow.lua"
+  ],
+
+  "animationConfig" : "uraniumglow.animation"
+}

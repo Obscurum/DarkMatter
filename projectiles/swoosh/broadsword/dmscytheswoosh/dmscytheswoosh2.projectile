@@ -1,0 +1,18 @@
+{
+  "projectileName" : "dmscytheswoosh2",
+  "physics" : "bullet",
+  "frames" : "dmscytheswoosh2.png",
+  "animationCycle" : 0.1,
+  "timeToLive" : 10,
+  "lightColor" : [182, 255, 0],
+  "frameNumber" : 7,
+  "speed" : 100,
+  "damagePoly" : [ [-20, 5.5], [14, 5.5], [14, -5.5], [-20, -5.5] ],
+  "animationLoops" : true,
+  "piercing" : true,
+  "flippable" : true,
+  "universalDamage" : false,
+  "damageKind" : "retro",
+  "knockback" : 40,
+  "knockbackDirectional" : true
+}

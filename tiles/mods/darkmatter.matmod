@@ -1,0 +1,21 @@
+{
+    "modId": 1000,
+    "modName": "darkmatterore",
+    "itemDrop": "darkmatter",
+    "Description": "Dark Matter.",
+    "health": 40,
+    "harvestLevel": 6,
+    "breaksWithTile": true,
+    "miningSounds": [
+        "/sfx/tools/pickaxe_ore.wav",
+        "/sfx/tools/pickaxe_ore2.wav"
+    ],
+    "miningParticle": "orespark",
+    "renderTemplate": "/tiles/classicmaterialtemplate.config",
+    "renderParameters": {
+        "texture": "darkmatterore.png",
+        "variants": 8,
+        "multiColored": false,
+        "zLevel": 0
+    }
+}

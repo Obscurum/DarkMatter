@@ -1,0 +1,15 @@
+{
+    "input": [
+        {
+            "item": "puredarkmatter",
+            "count": 50
+        }
+    ],
+    "output": {
+        "item": "pscythe",
+        "count": 1
+    },
+    "groups": [
+        "purifier"
+    ]
+}

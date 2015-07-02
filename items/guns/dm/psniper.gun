@@ -1,0 +1,31 @@
+{
+  "itemName" : "psniper",
+  "inventoryIcon" : "psniper.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "The sniper rifle is made of pure dark matter. Pretty sturdy if I do say so myself.",
+  "shortdescription" : "Purified Sniper Rifle",
+  "image" : "psniper.png",
+  "handPosition" : [-6, -3],
+  "firePosition" : [22, 0],
+  "recoilTime" : 0.1,
+  "level" : 6,
+  "tooltipKind" : "gun",
+  "weaponType" : "Sniper Rifle",
+  "fireTime" : 0.5,
+  "inaccuracy" : 0.001,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "pbullet",
+  "projectile" : {
+    "speed" : 75,
+    "life" : 5,
+    "power" : 15
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/sniper4.wav" } ],
+    "animation" : "/animations/muzzleflash/bulletmuzzle3/bulletmuzzle3.animation"
+  }
+}
